@@ -1,0 +1,14 @@
+[06-Sep-2014 02:32:12 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/cardiffu/public_html/master/scripts/gallery/upload.php on line 67
+[06-Sep-2014 02:32:12 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/cardiffu/public_html/master/scripts/gallery/upload.php on line 68
+[06-Sep-2014 02:32:12 UTC] PHP Warning:  Division by zero in /home/cardiffu/public_html/master/scripts/gallery/upload.php on line 69
+[06-Sep-2014 02:32:12 UTC] PHP Warning:  Division by zero in /home/cardiffu/public_html/master/scripts/gallery/upload.php on line 76
+[06-Sep-2014 02:32:12 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/cardiffu/public_html/master/scripts/gallery/upload.php on line 86
+[06-Sep-2014 02:32:12 UTC] PHP Warning:  imagejpeg(/home/cardiffu/public_html/i/thumb/): failed to open stream: Is a directory in /home/cardiffu/public_html/master/scripts/gallery/upload.php on line 87
+[06-Sep-2014 02:32:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cardiffu/public_html/master/scripts/gallery/upload.php:67) in /home/cardiffu/public_html/master/scripts/gallery/upload.php on line 94
+[06-Sep-2014 02:34:57 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, null given in /home/cardiffu/public_html/master/scripts/gallery/upload.php on line 49
+[06-Sep-2014 02:34:57 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, null given in /home/cardiffu/public_html/master/scripts/gallery/upload.php on line 50
+[06-Sep-2014 02:34:57 UTC] PHP Warning:  Division by zero in /home/cardiffu/public_html/master/scripts/gallery/upload.php on line 51
+[06-Sep-2014 02:34:57 UTC] PHP Warning:  Division by zero in /home/cardiffu/public_html/master/scripts/gallery/upload.php on line 58
+[06-Sep-2014 02:34:57 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/cardiffu/public_html/master/scripts/gallery/upload.php on line 68
+[06-Sep-2014 02:34:57 UTC] PHP Warning:  imagejpeg(/home/cardiffu/public_html/i/thumb/): failed to open stream: Is a directory in /home/cardiffu/public_html/master/scripts/gallery/upload.php on line 69
+[06-Sep-2014 02:34:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cardiffu/public_html/master/scripts/gallery/upload.php:49) in /home/cardiffu/public_html/master/scripts/gallery/upload.php on line 84
